@@ -6,7 +6,7 @@ E-commerce_Frontend es una aplicación web que ofrece a los clientes una experie
 
 ## Demo
 
-https://cerrajeriamalla.netlify.app 
+https://fakestorecommerce.netlify.app
 *(Esta página de inicio de noticias ha sido cuidadosamente diseñada con un enfoque en la simplicidad y funcionalidad. Además, constituye un proyecto valioso para perfeccionar las habilidades en CSS Grid. )*
 
 ## Requisitos

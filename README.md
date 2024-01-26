@@ -126,8 +126,6 @@ const response = await axios.get(`http://localhost:3000/apiRouter/products/${id}
 
 
 ## Documentation
-
-
 <div align="left">
     <a href="https://es.react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></a>
     <img width="12" />
@@ -141,17 +139,4 @@ const response = await axios.get(`http://localhost:3000/apiRouter/products/${id}
 </div>
 
 ## License
-
-<<<<<<< HEAD
-<<<<<<< HEAD
 Este proyecto está bajo la [Licencia MIT](https://choosealicense.com/licenses/mit/)
-=======
-Este proyecto está bajo la [Licencia MIT](https://choosealicense.com/licenses/mit/)
-
-
->>>>>>> afb99b8b99afd1d640a74c70629bf0e071d5409c
-=======
-Este proyecto está bajo la [Licencia MIT](https://choosealicense.com/licenses/mit/)
-
-
->>>>>>> origin/main

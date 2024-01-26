@@ -6,11 +6,7 @@ E-commerce_Frontend es una aplicación web que ofrece a los clientes una experie
 
 ## Demo
 
-<<<<<<< HEAD
-https://cerrajeriamalla.netlify.app 
-=======
 https://fakestorecommerce.netlify.app
->>>>>>> afb99b8b99afd1d640a74c70629bf0e071d5409c
 *(Esta página de inicio de noticias ha sido cuidadosamente diseñada con un enfoque en la simplicidad y funcionalidad. Además, constituye un proyecto valioso para perfeccionar las habilidades en CSS Grid. )*
 
 ## Requisitos
@@ -147,9 +143,15 @@ const response = await axios.get(`http://localhost:3000/apiRouter/products/${id}
 ## License
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Este proyecto está bajo la [Licencia MIT](https://choosealicense.com/licenses/mit/)
 =======
 Este proyecto está bajo la [Licencia MIT](https://choosealicense.com/licenses/mit/)
 
 
 >>>>>>> afb99b8b99afd1d640a74c70629bf0e071d5409c
+=======
+Este proyecto está bajo la [Licencia MIT](https://choosealicense.com/licenses/mit/)
+
+
+>>>>>>> origin/main

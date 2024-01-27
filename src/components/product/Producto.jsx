@@ -26,7 +26,7 @@ const Producto = () => {
 
     const fetchData = async () => {
         try {
-            const response = await axios.get(`http://localhost:3000/ApiRouter/products/${id}`, { withCredentials: true });
+            const response = await axios.get(`https://fakestorecommerce-backend.vercel.app/ApiRouter/products/${id}`, { withCredentials: true });
             setProducto(response.data);
         } catch (error) {
             console.error('Error al obtener datos:', error);

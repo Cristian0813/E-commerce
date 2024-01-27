@@ -12,7 +12,7 @@ const Productos = () => {
     useEffect(() => {
         const fetchDataAsync = async () => {
             try {
-                const response = await axios.get('http://localhost:3000/ApiRouter/products', { withCredentials: true });
+                const response = await axios.get('https://fakestorecommerce-backend.vercel.app/ApiRouter/products', { withCredentials: true });
                 // console.log('Fetched data:', response.data);
                 setData(response.data);
                 setFilteredData(response.data); // Actualiza filteredData con los datos obtenidos
